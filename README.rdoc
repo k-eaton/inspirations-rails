@@ -1,8 +1,8 @@
 == README
 
-This is the Rails version of [Inspirations](https://github.com/k-eaton/Inspirations).
+This is the Rails version of Inspirations: https://github.com/k-eaton/Inspirations
 
-Inspirations can be found at [http://inspirations.guru](http://inspirations.guru)
+Inspirations can be found at http://inspirations.guru
 
 * Ruby version  2.2.2p95
 * Rails version 4.2.4
